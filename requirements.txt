@@ -1,0 +1,22 @@
+nltk==3.6.1
+numpy==1.21.2
+rank_bm25==0.2.2
+scikit_learn==1.0.2
+scipy==1.8.0
+torch==1.7.0
+tqdm==4.62.3
+transformers==4.17.0
+tree_sitter==0.20.0
+venn
+tensorboard
+tensorboardX==2.5
+matplotlib
+matplotlib_venn
+Pillow
+pandas
+openpyxl
+protobuf==3.20.1
+more_itertools
+
+# pip install git+https://github.com/casics/spiral.git
+# spiral==1.1.0
